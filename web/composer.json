@@ -9,7 +9,8 @@
         "drupal/ctools": "^3.0",
         "drupal/pathauto": "^1.2",
         "drupal/inline_entity_form": "^1.0@RC",
-        "drupal/address": "^1.4"
+        "drupal/address": "^1.4",
+        "drupal/admin_toolbar": "^1.24"
     },
     "replace": {
         "drupal/core": "^8.5"
