@@ -3,5 +3,6 @@
 
 .idea/
 docker-compose.yml
-docroot/sites/*/settings.local.php
-docroot/sites/*/files
+web/sites/*/settings.local.php
+web/sites/*/files
+db/
